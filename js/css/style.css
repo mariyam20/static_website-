@@ -17,10 +17,10 @@ html {
 
 .logo img {
     /* width: 40%; */
-    width: 70px;
+    width: 33px;
     height: 70px;
     border: 3px solid white;
-    border-radius: 100px;
+    border-radius: 50px;
     margin: 5px;
 }
 
@@ -35,7 +35,8 @@ html {
 }
 
 .nav-list {
-    width: 70%;
+    width: 50%;
+    /* width: 70%; */
     display: flex;
     /* justify-content: center; */
     align-items: center;
